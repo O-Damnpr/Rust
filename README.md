@@ -1,1 +1,1 @@
-# Rust
+# rustlings 🦀
